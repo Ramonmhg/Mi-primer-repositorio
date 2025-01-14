@@ -1,6 +1,7 @@
 # Hola 
 ## Estoy estudiando asir
 Adios
-Raaaaaaaamooooon
+
 ![imagen](/img/conector.png).
 
+whoamiiiiii barra bin barra bash
